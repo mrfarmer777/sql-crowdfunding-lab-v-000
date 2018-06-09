@@ -33,7 +33,7 @@ INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES
 ("Apple Crisp","food",10000,"3/25/15","3/25/18"),
 ("horseback flamethrower","tech",10000,"3/25/15","3/25/18");
 
-INSERT INTO pleadges (amount,user_id,project_id) VALUES
+INSERT INTO pledges (amount,user_id,project_id) VALUES
 (25,1,2),
 (25,2,3),
 (25,4,5),
