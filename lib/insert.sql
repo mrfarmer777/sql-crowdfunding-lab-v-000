@@ -32,3 +32,38 @@ INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES
 ("jovian Mc Donald's","space food",10000,"3/25/15","3/25/18"),
 ("Apple Crisp","food",10000,"3/25/15","3/25/18"),
 ("horseback flamethrower","tech",10000,"3/25/15","3/25/18");
+
+INSERT INTO projects(amount,user_id,project_id) VALUES
+(1,2),
+(2,3),
+(4,5),
+(4,1),
+(2,4),
+(2,3),
+(2,3),
+(7,4),
+(17,8),
+(12,4),
+(14,5),
+(5,5),
+(1,5),
+(16,3),
+(5,6),
+(1,9),
+(2,5),
+(2,9),
+(5,4),
+(1,5),
+(20,5),
+(19,5),
+(14,1),
+(7,4),
+(8,6),
+(8,9),
+(4,2),
+(1,4),
+(14,2),
+(2,7);
+
+
+
