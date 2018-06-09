@@ -18,7 +18,6 @@ INSERT INTO users(name,age) VALUES
 ("Portia",25),
 ("Aggie",25),
 ("Magge",25),
-("Flaggie",25),
 ("Moonbeam",25);
 
 
