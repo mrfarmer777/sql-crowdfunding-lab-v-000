@@ -1,4 +1,4 @@
-INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES 
+INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES
 ("pickles","food",104000,"3/25/15","3/25/18"),
 ("tacos","food",10040,"3/25/15","3/25/18"),
 ("anchovies","food",10000,"3/25/15","3/25/18"),
